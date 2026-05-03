@@ -1,4 +1,4 @@
-# 👩‍💻 Maiara Nascimento
+# 👩‍💻 Maiara Silva
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A5CFA&size=24&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+GitHub!;Desenvolvedora+em+formação;Foco+em+Python+e+Web)
 
@@ -21,6 +21,18 @@ Desenvolvedora em início de carreira focada em desenvolvimento web, Python e ba
 - Python
 - SQL e banco de dados
 - JavaScript
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+## 🧠 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+
+---
 
 ## 📫 Contato
 - LinkedIn
