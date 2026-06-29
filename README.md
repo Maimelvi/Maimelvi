@@ -1,4 +1,4 @@
-# 👩‍💻 Maiara Silva
+# 👩‍💻 Maiara Nascimento
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A5CFA&size=24&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+GitHub!;Desenvolvedora+em+formação;Foco+em+Python+e+Web)
 
