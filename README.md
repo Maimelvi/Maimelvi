@@ -24,16 +24,6 @@ Desenvolvedora em início de carreira focada em desenvolvimento web, Python e ba
 
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
----
-
-## 🧠 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
-- LinkedIn
+- LinkedIn 
 - Email
