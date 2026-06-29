@@ -25,5 +25,5 @@ Desenvolvedora em início de carreira focada em desenvolvimento web, Python e ba
 ---
 
 ## 📫 Contato
-- LinkedIn 
-- Email
+- LinkedIn: www.linkedin.com/in/maiara-nascimento-5083341b8
+- Email: mns.melvi@gmail.com
